@@ -1,3 +1,7 @@
 *
+!drop/
+!rss.xml
+!sitemap.xml
 !index.html
 !.gitignore
+!index_url.txt
